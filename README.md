@@ -125,12 +125,6 @@ Alpha Checker stores your scan history in a local file `wallet_data.json` placed
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of the Scanner tab, Wallet tab, and Settings tab here.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
