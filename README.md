@@ -67,23 +67,6 @@ Then open your browser at **http://localhost:8501**
 
 ---
 
-### Windows (one-click installer)
-
-Double-click **install_windows.bat** — it will install all dependencies and launch the app automatically.
-
-> During Python installation, make sure to check **"Add Python to PATH"**
-
-### macOS (one-click installer)
-
-```bash
-chmod +x install_mac.sh
-./install_mac.sh
-```
-
-After installation, double-click **Run Alpha Checker.command** from Finder.
-
----
-
 ## 🗂️ Project Structure
 
 ```
