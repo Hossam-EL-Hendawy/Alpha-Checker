@@ -74,8 +74,6 @@ alpha-checker/
 ├── app.py                  # Main Streamlit application
 ├── wallet_data.json        # Auto-created on first scan (persistent storage)
 ├── requirements.txt        # Python dependencies
-├── install_windows.bat     # Windows one-click installer
-├── install_mac.sh          # macOS / Linux installer
 └── README.md
 ```
 
