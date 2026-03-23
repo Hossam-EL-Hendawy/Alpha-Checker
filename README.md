@@ -53,7 +53,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/alpha-checker.git
+git clone https://github.com/Hossam-EL-Hendawy/alpha-checker.git
 cd alpha-checker
 
 # 2. Install dependencies
